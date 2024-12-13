@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Primeira Página HTML</title>
+</head>
+<body>
+    <h1>Bem-vindo à Minha Primeira Página HTML!</h1>
+    <p>Esta página foi criada pela bruna como parte do curso nutead.</p>
+</body>
+</html>
